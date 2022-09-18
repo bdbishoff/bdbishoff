@@ -2,7 +2,9 @@
 ### • I am passionate about computer science💻 and entrepreneurship📈
 ### • I am looking for opportunities to grow my skills🌱 and work with others👀
 ### • My skills include: Python, C++, Video Editing, Social Media Marketing and Direct Sales📚
-### • Lets connect!🤝🖇️ https://tinyurl.com/linkedinbrent https://tinyurl.com/handshakebrent
+### • Lets connect!🤝
+### https://tinyurl.com/linkedinbrent 
+### https://tinyurl.com/handshakebrent
 
 <!--
 **bdbishoff/bdbishoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
